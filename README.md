@@ -1,5 +1,9 @@
 # Local Business Schema Generator | Free Schema Generator Tool
 
+
+ ![Local Business Schema](https://github.com/MeetanshiInc/Local-Business-Schema-Generator/blob/main/image/Local-Business-Schema-Markup-Generator.jpg)
+
+
 Local Business Schema is a type of structured data that provides information about a local business to search engines. This information includes the business’ name, address, phone number, hours of operation, and other relevant details. Search engines use this information to display rich snippets in the search results, which can improve the visibility and click-through rate of a local business.
 
 Meetanshi’s ***[Local Business Schema Generator](https://meetanshi.com/schema-generator/local-business)*** is a tool that can help you create and implement Local Business Schema on your website. These generators can simplify the process of adding structured data to your website and ensure that the information is accurate and consistent.
